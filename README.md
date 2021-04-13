@@ -10,5 +10,8 @@
 - HTML/CSSの学習記録と参考資料  
 comming soon
 
+- HTML基礎・阿部寛のホームページ風サイトを作ろう
+[阿部寛ホームページ風サイトを作成しよう](Abe_hirosi_homepage_making.md)
+
 - JavaScliptの学習記録と参考資料  
 comming soon
