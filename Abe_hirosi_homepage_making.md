@@ -127,7 +127,9 @@ Doctype宣言は、このページがどのバージョンのHTMLで記述され
 属性を付与することで意味付けを行い、テキストの配置やデザインを調整します。  
 
 ## divタグのみを用いてページをデザインする
-チュートリアル記事のコードを引用させていただきます。
+HTMLについて解説している記事の大半は先にいろいろなタグを覚えるように推奨しますが、あまり意味がないと思います。HTMLを利用する目的はWebページを作成するためであり、タグを覚える事ではありません。フレームを組んで必要なコンテンツを書き出して表示することは、divタグだけでできます。  
+
+他のタグを覚えるのは後で構いません。まずは作りましょう。はじめは必要なコンテンツをdivタグを用いて書き出します。  
 ```html
 <!DOCTYPE html>
 <html>
@@ -138,74 +140,29 @@ Doctype宣言は、このページがどのバージョンのHTMLで記述され
     <title>Document</title>
   </head>
   <body>
-    <div class="nav-wrapper">
-      <div class="nav">
-        <div class="nav-content"><div class="nav-icon"></div>トップ</div>
-        <div class="nav-content"><div class="nav-icon"></div>経歴</div>
-        <div class="nav-content"><div class="nav-icon"></div>趣味</div>
-        <div class="nav-content"><div class="nav-icon"></div>作品</div>
-        <div class="nav-content"><div class="nav-icon"></div>写真集</div>
-        <div class="nav-content"><div class="nav-icon"></div>出版本</div>
-        <div class="nav-content"><div class="nav-icon"></div>管理者</div>
-      </div>
-    </div>
-    <div class="contents-wrapper">
-      <div class="heading">阿部 寛のホームページ</div>
-      <div class="contents-wrapper-inner">
-        <div class="content-left">
-          <div class="face-photo"></div>
-          <div class="profile">
-            阿部 寛（あべ ひろし）<br/>
-            生年月日 1964年6月22日<br/>
-            血液型 A型<br/>
-            プロフィール
-          </div>
-          <div class="profile-english">
-            If you have any enquiries regarding my TV drama or film, or would like to make an enquiry concerning future projects, please do not hesitate to contact me through the following email address.
-          </div>
-          <div class="mail">mail:shigeta@navy.plala.or.jp</div>
-          <div class="profile-detail">
-            所属:<br/>
-            茂田オフィス<br/>
-            107-0052<br/>
-            東京都港区赤坂9-5-29<br/>
-            赤坂ロイヤルマンション303<br/>
-            TEL : +81-3-5410-8585<br/>
-            FAX : +81-3-5410-0588<br/>
-          </div>
-        </div>
-        <div class="content-right">
-          <div class="news-heading">★★★　最新情報　★★★</div>
-          <div class="news-list">
-            <div class="news-list-content">
-                <div class="news-list-title">・舞台</div>
-                <div class="news-list-description">
-                  彩の国シェイクスピア・シリーズ第35弾 『ヘンリー八世』 <br/>
-                  2020年2月14日（金）～3月1日（日）
-                </div>
-            </div>
-            <div class="news-list-content">
-                <div class="news-list-title">・TV</div>
-                <div class="news-list-description">
-                    「まだ結婚できない男」<br/>
-                    フジテレビ系連続ドラマ主演<br/>
-                    毎週火曜日　21時～　放送中                   
-                </div>
-            </div>
-            <div class="news-list-content">
-                <div class="news-list-title">・映画</div>
-                <div class="news-list-description">
-                    「HOKUSAI」 <br/>
-                    2020年・初夏 全国公開New!<br/>
-                    <br/>
-                      マレーシア映画「The Garden Of Evening Mists」<br/>
-                    2020年公開予定
-                </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <!--ここから-->
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <!--ここまで-->
   </body>
 </html>
 ```
