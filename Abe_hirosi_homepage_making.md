@@ -141,27 +141,18 @@ HTMLについて解説している記事の大半は先にいろいろなタグ�
   </head>
   <body>
     <!--ここから-->
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
+    <div>山本権兵衛のほ〜むぺ〜じ</div>
+    <div>画像</div>
+    <div>山本権兵衛（やまもと ごんべえ）</div>
+    <div>生年月日：1867年11月9日</div>
+    <div>血液型：えぇ〜型</div>
+    <div>基本ぷろふぃーる</div>
+    <div>出身地：武蔵国</div>
+    <div>最終学歴：寺子屋</div>
+    <div>趣味：手裏剣</div>
+    <div>職歴：人力車清掃（〜1872年3月）、飛脚助手（〜現在）</div>
+    <div>ひとこと：腹が減っては仕事は出来ねぇ</div>
+    <div>住所：武蔵国多摩郡第四村一二三</div>
     <!--ここまで-->
   </body>
 </html>
