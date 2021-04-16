@@ -111,7 +111,7 @@ Doctype宣言は、このページがどのバージョンのHTMLで記述され
 
 コードを３行追加しました。ブラウザで表示してみましょう。  
 
-![スクリーンショット1](https://github.com/Reo-Satooooo/documents/blob/master/homepage_making1.png "テキスト")
+![スクリーンショット1](homepage_making1.png "テキスト")
 
 このようにbodyタグにテキストを記述するとページに表示ができます。
 
@@ -158,7 +158,7 @@ HTMLについて解説している記事の大半は先にいろいろなタグ�
 
 最低限のコンテンツを追加しました。ブラウザで表示してみましょう。
 
-![スクリーンショット2](https://github.com/Reo-Satooooo/documents/blob/master/homepage_making2.png "テキスト")
+![スクリーンショット2](homepage_making2.png "テキスト")
 
 最低限の必要事項を追加しました。
 
@@ -197,7 +197,7 @@ HTMLについて解説している記事の大半は先にいろいろなタグ�
 
 画像を追加しました。ブラウザで表示してみましょう。
 
-![スクリーンショット3](https://github.com/Reo-Satooooo/documents/blob/master/edo_hikyaku.png "テキスト")
+![スクリーンショット3](homepage_making3.png "テキスト")
 
 ## CSSを使って配置を決める
 表示するコンテンツが揃ったので、スタイルシートを作成しCSSを適用していきます。阿部寛さんのホームページを参考にしつつ、以下のようなデザインで作成します。  
