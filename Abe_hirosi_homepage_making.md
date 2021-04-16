@@ -115,6 +115,9 @@ Doctype宣言は、このページがどのバージョンのHTMLで記述され
 見出し２
 見出し３
 ```
+
+![スクリーンショット1](https://github.com/Reo-Satooooo/documents/blob/master/homepage_making1.png "テキスト")
+
 このようにbodyタグにテキストを記述するとページに表示ができます。
 
 ## 新たに出てきたタグの解説
@@ -157,3 +160,5 @@ HTMLについて解説している記事の大半は先にいろいろなタグ�
   </body>
 </html>
 ```
+
+![スクリーンショット2](https://github.com/Reo-Satooooo/documents/blob/master/homepage_making2.png "テキスト")
